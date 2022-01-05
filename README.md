@@ -15,7 +15,12 @@ Marine Engineering (Master) - [ECOLE CENTRALE DE NANTES - ECN](https://www.ec-na
 Python | SQL | Bash | ML | GCP | AWS
 
 ## Examples of personal projects
-<img src="https://github.com/tuliodalcol/Who-makes-the-All-Star-team-each-year-in-the-NBA-" width="256" />
+[Prediction of NBA all starts players](https://github.com/tuliodalcol/Who-makes-the-All-Star-team-each-year-in-the-NBA-)
+[Beer style classification](https://github.com/tuliodalcol/Beer-Style-Classification)
+[Bike-sharing app demand](https://github.com/tuliodalcol/Bike-Sharing-Demand)
+[Loan based on financial history](https://github.com/tuliodalcol/Loan-based-on-Financial-History)
+
+
 
 - 🧠 I’m currently learning MLOps
 - 💬 Ask me about physics/engineering and any tech related stuff.
