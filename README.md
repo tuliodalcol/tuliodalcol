@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi 👋
 
-# I am Marco Tulio from Brazil, but currently living in Spain. I really enjoy learning languages and creating projects with public datasets, maily applying ML.
+I am Marco Tulio from Brazil, but currently living in Spain. I really enjoy learning languages and creating projects with public datasets, maily applying ML.
 
 ## Skills and Experiecne
 Python | SQL | Bash | ML | GCP | AWS
