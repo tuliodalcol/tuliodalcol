@@ -13,7 +13,7 @@ Python | SQL | Bash | ML | GCP | AWS
 ## Studies
 Petroleum Engineering (Bachelor) - [FEDERAL UNIVERSITY OF ESPÍRITO SANTO - UFES](https://www.google.com)
 
-[EMship (European Masters Course Advanced Design in Ship and Offshore Structures, including 'Advanced Structure' and 'CFD - Computational Fluid Dynamics')](http://www.emship.eu/)
+[EMship](http://www.emship.eu/) (European Masters Course Advanced Design in Ship and Offshore Structures, including 'Advanced Structure' and 'CFD - Computational Fluid Dynamics')
 
 Naval Architecture (Master) - [UNIVERSITÉ DE LIÈGE - ULG](https://www.uliege.be/cms/c_8699436/en/uliege)
 
