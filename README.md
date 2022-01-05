@@ -4,9 +4,13 @@ I am Marco Tulio from Brazil, but currently living in Spain. I really enjoy lear
 
 # Studies
 - Bachelor in engineering - UFES
-Petroleum Engineering
+
+[Petroleum Engineering](https://www.google.com)
+
 - EMship (European Masters Course Advanced Design in Ship and Offshore Structures, including 'Advanced Structure' and 'CFD - Computational Fluid Dynamics') 
-Naval Architecture (Master)
+
+Naval Architecture (Master) 
+
 Marine Engineering (Master)
 
 ## Skills and Experiecne
