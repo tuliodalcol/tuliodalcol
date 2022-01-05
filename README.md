@@ -16,7 +16,7 @@ Naval Architecture (Master) - [UNIVERSITÉ DE LIÈGE - ULG](https://www.uliege.b
 
 Marine Engineering (Master) - [ECOLE CENTRALE DE NANTES - ECN](https://www.ec-nantes.fr/english-version)
 
-## Skills and Experiecne
+## Skills
 Python | SQL | Bash | ML | GCP | AWS
 
 ## Examples of personal projects
@@ -25,3 +25,9 @@ Python | SQL | Bash | ML | GCP | AWS
 - [Bike-sharing app demand](https://github.com/tuliodalcol/Bike-Sharing-Demand)
 - [Loan based on financial history](https://github.com/tuliodalcol/Loan-based-on-Financial-History)
  
+<i class="programming lang-ruby"></i>
+<i class="programming lang-javascript"></i>
+<i class="programming lang-cpp"></i>
+<i class="programming lang-typescript"></i>
+<i class="programming lang-python"></i>
+<i class="programming lang-kotlyn"></i>
