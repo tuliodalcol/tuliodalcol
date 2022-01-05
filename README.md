@@ -4,7 +4,7 @@ I am Marco Tulio from Brazil, but currently living in Spain. I really enjoy lear
 
 - 🧠 I’m currently learning MLOps
 - 💬 Ask me about physics/engineering and any tech related stuff.
-- 📫 How to reach me: IG - @tuliodalcol
+- 📫 How to reach me: LinkedIn - [tuliodalcol](https://www.linkedin.com/in/tuliodalcol/)
 - ⚡ Fun fact: I live in space and every other day I visit earth
 
 ## Skills
