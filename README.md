@@ -20,8 +20,8 @@ Marine Engineering (Master) - [ECOLE CENTRALE DE NANTES - ECN](https://www.ec-na
 Python | SQL | Bash | ML | GCP | AWS
 
 ## Examples of personal projects
-[Prediction of NBA all starts players](https://github.com/tuliodalcol/Who-makes-the-All-Star-team-each-year-in-the-NBA-)
-[Beer style classification](https://github.com/tuliodalcol/Beer-Style-Classification)
-[Bike-sharing app demand](https://github.com/tuliodalcol/Bike-Sharing-Demand)
-[Loan based on financial history](https://github.com/tuliodalcol/Loan-based-on-Financial-History)
+- [Prediction of NBA all starts players](https://github.com/tuliodalcol/Who-makes-the-All-Star-team-each-year-in-the-NBA-)
+- [Beer style classification](https://github.com/tuliodalcol/Beer-Style-Classification)
+- [Bike-sharing app demand](https://github.com/tuliodalcol/Bike-Sharing-Demand)
+- [Loan based on financial history](https://github.com/tuliodalcol/Loan-based-on-Financial-History)
  
